@@ -2,7 +2,7 @@
 
 I'm a computer science student and ecosystem builder, passionate about the intersection of technology, venture, and complex problem-solving.
 
-I believe in building systems, not just products—whether that's a software model, a startup, or a community.
+I believe in building systems, not just products-whether that's a software model, a startup, or a community.
 
 ---
 
